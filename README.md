@@ -3,7 +3,7 @@
 A sophisticated document retrieval and question-answering system specifically designed for Persian (Farsi) documents. This application combines advanced OCR capabilities with modern language models to provide intelligent search and Q&A functionality for Persian PDF documents.
 
 
-![Main Interface](app_screenshot/app_screenshot.png)
+![Main Interface](doc/app_screenshot.png)
 
 ## 🌟 Key Features
 
